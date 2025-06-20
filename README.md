@@ -65,7 +65,7 @@ student-management-system-java-webapp/
 
 **Naeem Ullah**  
 📧 naeemullahmehmoodasghar@gmail.com  
-🔗 [LinkedIn][(https://www.linkedin.com/in/naeemullah-datascientist)](https://www.linkedin.com/in/naeem-ullah-331883244/)  
+🔗 [(https://www.linkedin.com/in/naeemullah-datascientist)](https://www.linkedin.com/in/naeem-ullah-331883244/)  
 
 
 ---
