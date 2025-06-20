@@ -53,7 +53,9 @@ student-management-system-java-webapp/
 ## 📐 Architecture (Simplified)
 
 [HTML Form] → [Servlets] → [DAO Layer] → [MySQL]
+
 ↑
+
 [Response (HTML/JSP)]
 
 
