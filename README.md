@@ -31,13 +31,21 @@ A fully functional CRUD-based student management system built as part of a unive
 ## 🛠️ Folder Structure
 
 student-management-system-java-webapp/
+
 ├── Student.java # Model class
+
 ├── Message.java # Utility/Response helper
+
 ├── StudentInfo.java # Servlet for CRUD operations
+
 ├── ShowRollInfo.java # Servlet for search/display
+
 ├── Form.html # Input form
+
 ├── myform.html # Alternate form
+
 ├── index.html # Homepage
+
 ├── web.xml # Servlet configuration
 
 ---
