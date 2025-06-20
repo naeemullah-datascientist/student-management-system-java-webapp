@@ -72,8 +72,9 @@ student-management-system-java-webapp/
 
 ## 📝 License
 
-This project is open for educational and learning purposes. You may reuse with attribution.  
-Consider adding a license like [MIT](https://choosealicense.com/licenses/mit/) if needed.
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute it with attribution.
+
 
 ---
 
